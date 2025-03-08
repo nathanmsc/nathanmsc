@@ -20,14 +20,4 @@ By leveraging Kubernetes and containerization, organizations can build a resilie
 - [Vue](#contributing)
 - [Python](#license)
 
----
 
-## Contributing
-
-Contributions are welcome! Follow the guidelines in [CONTRIBUTING.md](https://github.com/nathanmsc/DATA-ENGINEERING/blob/main/KUBERNETES/SCRIPTS/CONTRIBUTING.md).
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

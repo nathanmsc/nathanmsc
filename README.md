@@ -17,8 +17,8 @@ By leveraging Kubernetes and containerization, organizations can build a resilie
 
 - [Kubernetes](https://github.com/nathanmsc/DATA-ENGINEERING/blob/main/KUBERNETES/README.md)
 - [Docker Containers](https://github.com/nathanmsc/DATA-ENGINEERING/tree/main/DOCKER)
-- [Contributing](#contributing)
-- [License](#license)
+- [Vue](#contributing)
+- [Python](#license)
 
 ---
 
